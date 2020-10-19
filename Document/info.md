@@ -1,7 +1,7 @@
 ### セキュリティ定性メトリクス情報
 * [Flagship Project(https://img.shields.io/badge/owasp-flagship-blue.svg)](https://owasp.org/projects/)
 * [Type of Project](#)
-* [Version ]((https://github.com/OWASP/www-project-security-qualitative-metrics/releases))
+* [Version ](https://github.com/OWASP/www-project-security-qualitative-metrics/releases)
 
 ### [メインページ](https://owasp.org/www-project-security-qualitative-metrics/)
 ### [メトリクスページ](https://owasp.org/www-project-security-qualitative-metrics/SECURITY-QUALITATIVE-METRICS.html)
@@ -18,5 +18,5 @@
 * [更新](#)
 
 ### ライセンス
-コンテンツは [MIT License](https://www.apache.org/licenses/LICENSE-2.0) の条件の下で自由に使用できます。 OWASP セキュリティ定性メトリクスおよびすべての寄稿は Copyright © by Ferda Özdemir Sönmez 2020 によるものです。
+コンテンツは [MIT License](https://github.com/OWASP/www-project-security-qualitative-metrics/blob/master/LICENSE) の条件の下で自由に使用できます。 OWASP セキュリティ定性メトリクスおよびすべての寄稿は Copyright © by Ferda Özdemir Sönmez 2020 によるものです。
 
