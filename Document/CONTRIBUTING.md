@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: 寄稿
+title: OWASP セキュリティ定性メトリクス寄稿者
 site_side: true
 tags: security-qualitative-metrics
 project: true
@@ -10,6 +10,7 @@ type: documentation
 pitch: OWASP セキュリティ定性メトリクスはウェブプロジェクトのセキュリティレベルを評価するメトリクスの最も詳細なリストです。OWASP ASVS のカバレッジのレベルを示しています。
 ---
 
+# 寄稿
 
 # ![Project Logo](images/logo3_small.png) OWASP セキュリティ定性メトリクス
 
@@ -43,5 +44,4 @@ OWASP セキュリティ定性メトリクスはコミュニティ主導の取�
 問題を見つけましたか？新しい機能を提案しますか？コンサルティングが必要ですか？
 
 プロジェクトリーダーにお気軽にお問い合わせください。
-
 
