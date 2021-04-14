@@ -5,7 +5,7 @@ title: OWASP セキュリティ定性メトリクス
 site_side: true
 tags: security-qualitative-metrics
 project: true
-level: 4
+level: 2
 type: documentation
 pitch: OWASP セキュリティ定性メトリクスはウェブプロジェクトのセキュリティレベルを評価するメトリクスの最も詳細なリストです。OWASP ASVS のカバレッジのレベルを示しています。
 ---
