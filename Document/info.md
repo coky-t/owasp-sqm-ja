@@ -1,22 +1,21 @@
 ### セキュリティ定性メトリクス情報
-* [Flagship Project(https://img.shields.io/badge/owasp-flagship-blue.svg)](https://owasp.org/projects/)
-* [Type of Project](#)
-* [Version ](https://github.com/OWASP/www-project-security-qualitative-metrics/releases)
+* <i class="fas fa-egg" style="color:#233e81;"></i> Incubator Project
 
-### [メインページ](https://owasp.org/www-project-security-qualitative-metrics/)
-### [メトリクスページ](https://owasp.org/www-project-security-qualitative-metrics/SECURITY-QUALITATIVE-METRICS.html)
-### [方法論と背景ページ](https://owasp.org/www-project-security-qualitative-metrics/METHODOLOGY-AND-BACKGROUND.html)
-### [FAQ ページ](https://owasp.org/www-project-security-qualitative-metrics/FAQ.html)
-### [寄稿者ページ](https://owasp.org/www-project-security-qualitative-metrics/CONTRIBUTING.html)
-### [参考情報ページ](https://owasp.org/www-project-security-qualitative-metrics/REFERENCES.html)
+### [メインページ](/)
 
- 
+### [メトリクスページ](SECURITY-QUALITATIVE-METRICS)
+
+### [方法論と背景ページ](METHODOLOGY-AND-BACKGROUND)
+
+### [FAQ ページ](FAQ)
+
+### [寄稿者ページ](CONTRIBUTING)
+
+### [参考情報ページ](REFERENCES)
+
 ### ダウンロードまたはソーシャルリンク
-* [チャットルーム](owasp-www-project-security-qualitative-metrics/community)
-
-### 更新ログ
-* [更新](#)
+* [チャットルーム](https://gitter.im/owasp-www-project-security-qualitative-metrics/community)
 
 ### ライセンス
-コンテンツは [MIT License](https://github.com/OWASP/www-project-security-qualitative-metrics/blob/master/LICENSE) の条件の下で自由に使用できます。 OWASP セキュリティ定性メトリクスおよびすべての寄稿は Copyright © by Ferda Özdemir Sönmez 2020 によるものです。
-
+コンテンツは [MIT License](https://github.com/OWASP/www-project-security-qualitative-metrics/blob/master/LICENSE) の条件の下で自由に使用できます。
+OWASP セキュリティ定性メトリクスおよびすべての寄稿は Copyright © by Ferda Özdemir Sönmez 2020 によるものです。
