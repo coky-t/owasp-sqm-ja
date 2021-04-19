@@ -5,17 +5,15 @@ title: OWASP セキュリティ定性メトリクス
 site_side: true
 tags: security-qualitative-metrics
 project: true
-level: 2
 type: tool
 pitch: OWASP セキュリティ定性メトリクスはウェブプロジェクトのセキュリティレベルを評価するメトリクスの最も詳細なリストです。OWASP ASVS のカバレッジのレベルを示しています。
 ---
 
-# ![Project Logo](images/logo3_small.png) セキュリティ定性メトリクス
-# [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship-blue.svg)](https://owasp.org/projects/)
- [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/OWASP/www-project-security-qualitative-metrics/blob/master/LICENSE)
+# ![Project Logo](assets/images/logo3_small.png) OWASP セキュリティ定性メトリクス
 
- [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/OWASP/www-project-security-qualitative-metrics/releases)
- 
+[![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://owasp.org/projects/)
+[![GitHub License](https://img.shields.io/github/license/OWASP/www-project-security-qualitative-metrics)](https://github.com/OWASP/www-project-security-qualitative-metrics/blob/master/LICENSE)
+[![GitHub Release](https://img.shields.io/github/v/release/OWASP/www-project-security-qualitative-metrics)](https://github.com/OWASP/www-project-security-qualitative-metrics/releases)
 
 ## アプリケーションアーキテクチャ、設計、実装で重要となる事柄に関連するメトリクス
 
