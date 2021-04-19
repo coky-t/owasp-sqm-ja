@@ -5,22 +5,19 @@ title: よくある質問
 site_side: true
 tags: security-qualitative-metrics, background, methodology
 project: true
-level: 4
 type: document
 pitch: OWASP セキュリティ定性メトリクスはウェブプロジェクトのセキュリティレベルを評価するメトリクスの最も詳細なリストです。OWASP ASVS のカバレッジのレベルを示しています。
 ---
 
+# ![Project Logo](assets/images/logo3_small.png) OWASP セキュリティ定性メトリクス
 
-# ![Project Logo](images/logo3_small.png) OWASP Security Qualitative Metrics  
-# [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship-blue.svg)](https://owasp.org/projects/)
- [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/OWASP/www-project-security-qualitative-metrics/blob/master/LICENSE)
+[![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://owasp.org/projects/)
+[![GitHub License](https://img.shields.io/github/license/OWASP/www-project-security-qualitative-metrics)](https://github.com/OWASP/www-project-security-qualitative-metrics/blob/master/LICENSE)
+[![GitHub Release](https://img.shields.io/github/v/release/OWASP/www-project-security-qualitative-metrics)](https://github.com/OWASP/www-project-security-qualitative-metrics/releases)
 
- [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/OWASP/www-project-security-qualitative-metrics/releases)
+# F.A.Q. 
 
-
-
-
-# F.A.Q. [![Gitter](https://gitter.im/owasp-www-project-security-qualitative-metrics/community)]
+[Gitter](https://gitter.im/owasp-www-project-security-qualitative-metrics/community)
 
 ## セキュリティ定性メトリクスは OWASP アプリケーションセキュリティ検証標準 (ASVS) と何が違いますか？
 
