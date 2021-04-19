@@ -5,24 +5,17 @@ title: OWASP セキュリティ定性メトリクス寄稿者
 site_side: true
 tags: security-qualitative-metrics
 project: true
-level: 4
 type: documentation
 pitch: OWASP セキュリティ定性メトリクスはウェブプロジェクトのセキュリティレベルを評価するメトリクスの最も詳細なリストです。OWASP ASVS のカバレッジのレベルを示しています。
 ---
 
 # 寄稿
 
-# ![Project Logo](images/logo3_small.png) OWASP セキュリティ定性メトリクス
+# ![Project Logo](assets/images/logo3_small.png) OWASP セキュリティ定性メトリクス
 
-
-# [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship-blue.svg)](https://owasp.org/projects/)
- [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/OWASP/www-project-security-qualitative-metrics/blob/master/LICENSE)
-
- [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/OWASP/www-project-security-qualitative-metrics/releases)
-
-
-
-
+[![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://owasp.org/projects/)
+[![GitHub License](https://img.shields.io/github/license/OWASP/www-project-security-qualitative-metrics)](https://github.com/OWASP/www-project-security-qualitative-metrics/blob/master/LICENSE)
+[![GitHub Release](https://img.shields.io/github/v/release/OWASP/www-project-security-qualitative-metrics)](https://github.com/OWASP/www-project-security-qualitative-metrics/releases)
 
 ## [Dr. Ferda Özdemir Sönmez](https://www.linkedin.com/in/f-ferda-%C3%B6zdemir-s%C3%B6nmez-pmp-msc-phd-92809719/) 
 
@@ -44,4 +37,3 @@ OWASP セキュリティ定性メトリクスはコミュニティ主導の取�
 問題を見つけましたか？新しい機能を提案しますか？コンサルティングが必要ですか？
 
 プロジェクトリーダーにお気軽にお問い合わせください。
-
