@@ -14,3 +14,11 @@ This is the unofficial Japanese translation of the [OWASP Security Qualitative M
 ## 参考情報
 
 - [OWASPアプリケーションセキュリティ検証標準 3.0.1 JPCERT/CC 翻訳版](https://www.jpcert.or.jp/securecoding/materials-owaspasvs.html)
+
+## License
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## Author (日本語訳)
+
+[Koki Takeyama](https://github.com/coky-t)
