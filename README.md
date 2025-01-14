@@ -19,6 +19,6 @@ This is the unofficial Japanese translation of the [OWASP Security Qualitative M
 
 [MIT License](https://opensource.org/licenses/MIT)
 
-## Author (日本語訳)
+## Translator (Japanese)
 
 [Koki Takeyama](https://github.com/coky-t)
