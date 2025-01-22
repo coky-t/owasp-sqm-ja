@@ -1,6 +1,6 @@
 # 目次
 
-- [README](index.md)
+- [OWASP セキュリティ定性メトリクス](index.md)
 - [メトリクス](SECURITY-QUALITATIVE-METRICS.md)
 - [方法論と背景](METHODOLOGY-AND-BACKGROUND.md)
 - [FAQ](FAQ.md)
