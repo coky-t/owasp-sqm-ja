@@ -1,6 +1,9 @@
-# 目次
+# OWASP Security Qualitative Metrics ja
 
-- [OWASP セキュリティ定性メトリクス 日本語版](README.md)
+- [OWASP Security Qualitative Metrics ja](README.md)
+
+## OWASP セキュリティ定性メトリクス 日本語版
+
 - [OWASP セキュリティ定性メトリクス](Document/index.md)
 - [メトリクス](Document/SECURITY-QUALITATIVE-METRICS.md)
 - [方法論と背景](Document/METHODOLOGY-AND-BACKGROUND.md)
