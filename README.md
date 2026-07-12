@@ -2,7 +2,7 @@
 
 This is the unofficial Japanese translation of the [OWASP Security Qualitative Metrics](https://github.com/OWASP/www-project-security-qualitative-metrics).
 
-- Document Site - <https://coky-t.gitbook.io/owasp-sqm-ja/>
+<!-- - Document Site - <https://coky-t.gitbook.io/owasp-sqm-ja/> -->
 - Document Repository - <https://github.com/coky-t/owasp-sqm-ja>
 
 ### Originator
@@ -31,5 +31,5 @@ This is the unofficial Japanese translation of the [OWASP Security Qualitative M
 
 [Koki Takeyama](https://github.com/coky-t)
 
-- Document Site - <https://coky-t.gitbook.io/owasp-docs-ja/>
+<!-- - Document Site - <https://coky-t.gitbook.io/owasp-docs-ja/> -->
 - Document Repository - <https://github.com/coky-t/owasp-docs-ja>
